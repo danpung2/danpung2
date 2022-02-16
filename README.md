@@ -1,13 +1,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danpung2)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danpung2&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Now...
 ***
 - Spring
     * 👋스프링 부트와 친해지기: 스프링 부트와 AWS로 혼자 구현하는 웹 서비스(이동욱 저)(BusinessCardManagement)
-    * 🙌스프링 부트 헤보기: 블로그 만들기(Springboot-JPA-Blog)
+    * 🙌스프링 부트 해보기: 블로그 만들기(Springboot-JPA-Blog)
     * **👊스프링 부트 알아가기: 투두 앱 만들기(Springboot-ToDoApp)**
 
 
