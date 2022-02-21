@@ -5,7 +5,8 @@
 - Spring
     * 👋스프링 부트와 친해지기: 스프링 부트와 AWS로 혼자 구현하는 웹 서비스(이동욱 저)(BusinessCardManagement)
     * 🙌스프링 부트 해보기: 블로그 만들기(Springboot-JPA-Blog)
-    * **👊스프링 부트 알아가기: 투두 앱 만들기(Springboot-ToDoApp)**
+    * 👊스프링 부트 알아가기: 투두 앱 만들기(Springboot-ToDoApp)
+    * **✊스프링 부트 정복하기: 수강신청 앱 만들기(ApplicationForClasses)**
 
 
 <!--
