@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danpung2&layout=compact&hide=jupyter%20notebook,Roff,html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danpung2&layout=donut&hide=jupyter%20notebook,Roff,html,css,handlebars)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Hyun's record
 ***
