@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/hono-E36002?style=for-the-badge&logo=hono&logoColor=white" />&nbsp
 </div>
 
 <br/>
@@ -32,6 +33,7 @@
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp
 </div>
 
 <br/>
@@ -41,6 +43,7 @@
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/typeorm-FE0803?style=for-the-badge&logo=TypeORM&logoColor=white" />&nbsp
 </div>
 
 <br/>
@@ -49,6 +52,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />&nbsp
   <img src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />&nbsp
@@ -76,8 +80,17 @@
 
 <h3 align="center">🟢 Top Langs 🟢</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danpung2&layout=donut&hide=jupyter%20notebook,Roff,html,css,handlebars" />&nbsp
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danpung2&layout=donut&theme=dark&hide=jupyter%20notebook,Roff,html,css,handlebars,c%23" />&nbsp
 </div>
+
+<br/>
+<h3 align="center">🔵 Github Stats 🔵</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true" />&nbsp
+</div>
+
+<br/>
+
 <!-- [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={insert_name})](https://github.com/loosie/github-readme-tistory-card) -->
 
 <h3 align="center">🛠️ Tech Blog - Hyun's Record 🛠️</h3>
