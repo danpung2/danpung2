@@ -84,12 +84,6 @@
 </div>
 
 <br/>
-<h3 align="center">🔵 Github Stats 🔵</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true" />&nbsp
-</div>
-
-<br/>
 
 <!-- [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={insert_name})](https://github.com/loosie/github-readme-tistory-card) -->
 
