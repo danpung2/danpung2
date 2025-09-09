@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+This+is+Hyun" />
+  <img src="https://readme-typing-svg.demolab.com?center=true&duration=3000&pause=1000&size=36&width=800&height=100&lines=Hello,+This+is+Hyun" />
 </div>
 
 <h3 align="center">✨ Language ✨</h3>
@@ -90,9 +90,15 @@
 <h3 align="center">🛠️ Tech Blog - Hyun's Record 🛠️</h3>
 <div align="center">
   <a href="https://danpung2.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-Blog-orange" />&nbsp
+    <img src="https://readme-typing-svg.demolab.com?center=true&width=200&duration=2000&pause=2000&lines=CLICK+!!+--->" />
+    <img src="https://img.shields.io/badge/Tistory-Blog-orange?style=for-the-badge&logo=Tistory&logoColor=white" style="width: 30%; margin: 0; padding: 0;" />
   </a>
 </div>
+
+<br/>
+<br/>
+<br/>
+<br/>
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/danpung2" width="1000" height="240"/>
