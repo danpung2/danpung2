@@ -47,7 +47,7 @@
 
 <h3 align="center">🟢 Top Langs 🟢</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danpung2&layout=donut&theme=dark&hide=jupyter%20notebook,Roff,html,css,handlebars,c%23" />&nbsp
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=danpung2&layout=donut&theme=dark&hide=jupyter%20notebook,Roff,html,css,handlebars,c%23" />&nbsp
 </div>
 
 <br/>
