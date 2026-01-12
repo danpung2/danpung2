@@ -1,70 +1,41 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?center=true&duration=3000&pause=1000&size=36&width=800&height=100&lines=Hello,+This+is+Hyun" />
-</div>
+# Hello, I'm hyun 🌱
 
-<h3 align="center">✨ Language ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-</div>
+[English](#-english) | [한국어](#-한국어)
 
-<h3 align="center">✨ Library && Framework ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/hono-E36002?style=for-the-badge&logo=hono&logoColor=white" />&nbsp
-</div>
+---
 
-<br/>
+## 🇺🇸 English
 
-<h3 align="center">✨ Database ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
-</div>
+I enjoy interpreting user behavior through data and realizing business value through robustly designed systems. I am deeply interested in the point where technical excellence leads to actual business impact.
 
-<br/>
+### 🧭 What I Value
+- **Story Behind the Numbers**: I believe metrics are more than just numbers—they are signals of user experience. I focus on discovering problems within quantitative data and collaborating with the team to find effective solutions.
+- **Sustainable Technology**: Rather than chasing trends, I strive to make technical choices that the team can understand and maintain healthily for a long time.
+- **Resilience**: Mistakes can happen, but systems must be able to stand up again. I aim for a culture where failures are seen as opportunities for growth.
 
-<h3 align="center">✨ Infrastructure ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/terraform-%232C5263.svg?style=for-the-badge&logo=terraform&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />&nbsp
-</div>
+### 💬 Meaningful Experiences
+- **Communicating with Data**: Together with colleagues pondering business direction, I defined necessary data and created an environment to check it easily, adding confidence to decision-making.
+- **Creating a Stable Flow**: I have experience maintaining business continuity by designing structures where data flows seamlessly even amidst unexpected massive traffic.
+- **Continuous Experimentation & Sharing**: I enjoy experimenting with better structures through personal projects like **LogPilot** and **Flowly**, and sharing what I've learned along the way.
 
-<br/>
+> *Technical skills are tools to create business impact. I aim to deliver results, not just features.*
 
-<h3 align="center">🟢 Top Langs 🟢</h3>
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=danpung2&layout=donut&theme=dark&hide=jupyter%20notebook,Roff,html,css,handlebars,c%23" />&nbsp
-</div>
+---
 
-<br/>
+## 🇰🇷 한국어
 
-<!-- [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={insert_name})](https://github.com/loosie/github-readme-tistory-card) -->
+사용자의 행동 뒤에 숨겨진 의미를 데이터로 해석하고, 견고하게 설계된 시스템을 통해 비즈니스 가치를 실현하는 과정을 즐깁니다. 기술의 완성도만큼이나, 그 기술이 실제 비즈니스 임팩트로 이어지는 지점에 깊은 관심을 두고 있습니다.
 
-<h3 align="center">🛠️ Tech Blog - Hyun's Record 🛠️</h3>
-<div align="center">
-  <a href="https://danpung2.tistory.com/">
-    <img src="https://readme-typing-svg.demolab.com?center=true&width=200&duration=2000&pause=2000&lines=CLICK+!!+--->" />
-    <img src="https://img.shields.io/badge/Tistory-Blog-orange?style=for-the-badge&logo=Tistory&logoColor=white" style="width: 30%; margin: 0; padding: 0;" />
-  </a>
-</div>
+### 🧭 제가 중요하게 생각하는 것들
+- **숫자 뒤에 숨은 이야기**: 데이터는 단순한 수치가 아니라 사용자의 경험이 담긴 메시지라고 생각합니다. 정량적인 지표 속에서 문제를 정의하고, 이를 해결하기 위해 동료들과 함께 고민하는 과정을 중시합니다.
+- **지속 가능한 기술**: 유행을 좇기보다, 팀원들이 함께 이해하고 오랫동안 건강하게 유지할 수 있는 기술적 선택을 하려 노력합니다.
+- **회복 탄력성**: 실수는 있을 수 있지만, 시스템은 다시 일어설 수 있어야 합니다. 장애를 성장의 기회로 삼는 문화를 지향합니다.
 
-<br/>
-<br/>
+### 💬 의미 있는 경험들
+- **데이터로 소통하기**: 비즈니스 방향성을 고민하는 동료들과 함께 필요한 데이터를 정의하고, 이를 손쉽게 확인할 수 있는 환경을 만들며 의사결정의 확신을 더했습니다.
+- **안정적인 흐름 만들기**: 예상치 못한 대규모 트래픽 속에서도 데이터가 끊기지 않고 흐를 수 있는 구조를 고민하며, 비즈니스의 연속성을 지켰던 경험이 있습니다.
+- **끊임없는 실험과 공유**: **LogPilot**과 **Flowly** 같은 개인적인 프로젝트를 통해 더 나은 구조를 실험하고, 그 과정에서 배운 것들을 나누는 것을 좋아합니다.
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/danpung2" width="1000" height="240"/>
-</a>
+> *기술은 비즈니스 가치를 창출하기 위한 도구입니다. 기능 구현을 넘어 성과를 남기는 개발을 지향합니다.*
+
+---
